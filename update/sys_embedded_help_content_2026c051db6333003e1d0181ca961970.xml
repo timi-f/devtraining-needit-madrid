@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">Using the NeedIt List</h1>
+<p>Use the NeedIt List to view the state of all requests, e.g for those by might be:</p>
+<ul><li><em>Awaiting Approval.</em></li><li><em>Requested</em></li><li><em>Closed Complete</em></li></ul>
+<h2 class="title sectiontitle">Section 1</h2>
+<p><em>::</em></p>
+<p><em>::</em></p>
+<h2 class="title sectiontitle">Section 2</h2>
+<p><em>::<br />::</em></p>
+<div class="note tm-element"><span class="notetitle">Note: TBD<br /></span></div>
+<h2 class="title sectiontitle"> For more Help</h2>
+<div class="video"><iframe src="https://www.youtube.com/embed/DbRocGg6kbw" frameborder="0" allowfullscreen=""></iframe>
+<p class="p">NeedIt List Video</p>
+</div>
+<p> </p>
+<p> </p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>NeedIt List - User</name>
+        <page>x_58872_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</role>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 12:08:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2026c051db6333003e1d0181ca961970</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedIt List - User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_2026c051db6333003e1d0181ca961970</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 13:30:46</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=2026c051db6333003e1d0181ca961970"/>
+</record_update>
